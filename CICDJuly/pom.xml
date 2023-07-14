@@ -3,7 +3,7 @@
   <groupId>CICDJuly</groupId>
   <artifactId>CICDJuly</artifactId>
   <version>1</version>
-  <packaging>war</packaging>
+  <packaging>war </packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
